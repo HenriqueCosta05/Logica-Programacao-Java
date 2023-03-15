@@ -1,4 +1,4 @@
-package ExerciciosLogicaFATEC;
+package ExerciciosLogicaFATEC.Aula2;
 import java.lang.Math;
 import java.util.Scanner;
 

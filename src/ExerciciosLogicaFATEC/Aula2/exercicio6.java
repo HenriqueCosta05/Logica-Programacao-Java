@@ -1,4 +1,4 @@
-package ExerciciosLogicaFATEC;
+package ExerciciosLogicaFATEC.Aula2;
 
 public class exercicio6 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ExerciciosLogicaFATEC;
+package ExerciciosLogicaFATEC.Aula2;
 import javax.swing.JOptionPane;
 import java.lang.Math;
 public class exercicio12 {

@@ -1,4 +1,4 @@
-package ExerciciosLogicaFATEC;
+package ExerciciosLogicaFATEC.Aula1;
 import java.util.Scanner;
 public class exercicio3_TiposDados {
     public static void main(String[] args) {
