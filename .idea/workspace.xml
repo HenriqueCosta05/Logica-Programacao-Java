@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1de5a5fe-e97b-4b25-af96-877e0a468a1e" name="Changes" comment="Ajustes no Repositório.">
+      <change afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio2_TiposDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio2_TiposDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio3_TiposDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio3_TiposDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio4_bibliotecaJOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio4_bibliotecaJOptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio5_bibliotecaJOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio5_bibliotecaJOptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/Exercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio7_DIO_Controle_Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio7_DIO_Controle_Fluxo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MMvPS0hZMi9w5xgiMzPctiBVuz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Graduação Fatec/Exercícios/Exercícios Java/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Graduação Fatec\Exercícios\Exercícios Java\src" />
+      <recent name="D:\Graduação Fatec\Exercícios\Exercícios Java\src\ExerciciosLogicaFATEC\Aula1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ExerciciosLogicaFATEC.Aula3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula2.Exercicio11" />
+      <module name="Exercícios Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosLogicaFATEC.Aula3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula2.exercicio10" />
+      <module name="Exercícios Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosLogicaFATEC.Aula3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula3.exercicio2" />
+      <module name="Exercícios Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosLogicaFATEC.Aula3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula2.exercicio9" />
+      <module name="Exercícios Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosLogicaFATEC.Aula3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercício1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula3.exercício1" />
+      <module name="Exercícios Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosLogicaFATEC.Aula3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exercicio2" />
+        <item itemvalue="Application.exercício1" />
+        <item itemvalue="Application.Exercicio11" />
+        <item itemvalue="Application.exercicio10" />
+        <item itemvalue="Application.exercicio9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de5a5fe-e97b-4b25-af96-877e0a468a1e" name="Changes" comment="" />
+      <created>1677590244736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677590244736</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Novos desafios Java">
+      <created>1678880807754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678880807754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Novos desafios Java">
+      <created>1678881153699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678881153699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ajustes no Repositório.">
+      <created>1678912171219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678912171219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajustes no Repositório.">
+      <created>1678912342922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678912342922</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Novos desafios Java" />
+    <MESSAGE value="Ajustes no Repositório." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes no Repositório." />
+  </component>
+</project>
