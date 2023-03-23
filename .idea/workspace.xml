@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de5a5fe-e97b-4b25-af96-877e0a468a1e" name="Changes" comment="Ajustes no Repositório.">
-      <change afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio1Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio2_TiposDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio2_TiposDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio3_TiposDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio3_TiposDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio4_bibliotecaJOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio4_bibliotecaJOptionPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio5_bibliotecaJOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula1/exercicio5_bibliotecaJOptionPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/Exercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula2/exercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/ExerciciosLogicaFATEC/Aula3/exercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivos .java/MaisExerciciosLogica/exercicio7_DIO_Controle_Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arquivos .java/MaisExerciciosLogica/exercicio7_DIO_Controle_Fluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/Aula1_Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/out/production/Logica-Programacao2023/Aula1_Exercicio1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +35,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Graduação Fatec/Exercícios/Exercícios Java/src"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Graduação Fatec\Exercícios\Exercícios Java\src" />
@@ -76,7 +49,7 @@
       <recent name="ExerciciosLogicaFATEC.Aula3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.exercicio2">
     <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula2.Exercicio11" />
       <module name="Exercícios Java" />
@@ -103,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula3.exercicio2" />
+    <configuration name="exercicio1Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.exercicio1Soma" />
       <module name="Exercícios Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosLogicaFATEC.Aula3.*" />
+          <option name="PATTERN" value="ExerciciosLogicaFATEC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula2.exercicio9" />
+    <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosLogicaFATEC.Aula3.exercicio2" />
       <module name="Exercícios Java" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio10" />
+        <item itemvalue="Application.exercicio1Soma" />
         <item itemvalue="Application.exercicio2" />
         <item itemvalue="Application.exercício1" />
         <item itemvalue="Application.Exercicio11" />
-        <item itemvalue="Application.exercicio10" />
-        <item itemvalue="Application.exercicio9" />
       </list>
     </recent_temporary>
   </component>
