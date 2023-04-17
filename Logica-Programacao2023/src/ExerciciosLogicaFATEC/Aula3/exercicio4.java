@@ -20,5 +20,6 @@ public class exercicio4 {
             case 0: diaRodizio = "Sexta-feira"; break;
         }
         System.out.println("O dia do rodízio de seu carro é: " + diaRodizio);
+        scan.close();
     }
 }

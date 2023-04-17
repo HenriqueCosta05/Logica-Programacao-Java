@@ -1,6 +1,5 @@
 package src.ExerciciosLogicaFATEC.Aula3;
 import java.util.Scanner;
-import java.lang.Math.*;
 public class exercicio7 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -35,5 +34,6 @@ public class exercicio7 {
                 double volumeCilindro = ((Math.pow(raiobase, 2) * alturacl));
                 System.out.println("O volume do cilindro desejado é: " + volumeCilindro);
         }
+        scan.close();
     }
 }

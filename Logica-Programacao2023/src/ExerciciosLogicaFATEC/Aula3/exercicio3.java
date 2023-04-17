@@ -22,5 +22,6 @@ public class exercicio3 {
             case 12: Estacao = "Verão"; break;
         }
         System.out.println("A estação deste mês é: " + Estacao);
+        input.close();
     }
 }

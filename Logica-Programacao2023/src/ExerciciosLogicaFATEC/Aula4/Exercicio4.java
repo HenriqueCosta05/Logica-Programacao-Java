@@ -13,7 +13,7 @@ public class Exercicio4 {
 
         while (Numero > 0) {
             fatorial = fatorial * Numero;
-            Numero = Numero - 1;
+            Numero--;
         }
         System.out.println("O fatorial deste número é: " + fatorial);
     }

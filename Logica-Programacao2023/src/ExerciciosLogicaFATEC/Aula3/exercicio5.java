@@ -19,5 +19,6 @@ public class exercicio5 {
             double valorPago = 0.95 * valorCompra;
             System.out.println("O valor da compra foi: " + valorPago + " , o que corresponde a um desconto de 5% como cliente vip!");
         }
+        scan.close();
     }
 }

@@ -19,5 +19,6 @@ public class exercicio6 {
             case 2: taxaMortalidade = ((numeroObitos * 1000) / numeroHabitantes);
                 System.out.println("A taxa de mortalidade deste período foi: " + taxaMortalidade);
         }
+        scan.close();
     }
 }

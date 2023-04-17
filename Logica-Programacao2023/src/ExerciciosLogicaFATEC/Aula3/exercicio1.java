@@ -52,5 +52,6 @@ public class exercicio1 {
                 System.out.println("Escolha a operação: (1) Adição, (2) Subtração, (3) Multiplicação ou (4) Divisão.");
                 opcao = entradaUsuario.nextInt();
         }
+        entradaUsuario.close();
     }
 }

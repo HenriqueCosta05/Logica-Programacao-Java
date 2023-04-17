@@ -22,6 +22,7 @@ public class exercicio2 {
             psIdeal = (62.1 * h) - 44.7;
 
         System.out.println("O Peso Ideal é: " + psIdeal + " kg.");
+        ler.close();
     }
 
 }

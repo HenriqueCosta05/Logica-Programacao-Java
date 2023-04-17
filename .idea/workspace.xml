@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de5a5fe-e97b-4b25-af96-877e0a468a1e" name="Changes" comment="Ajustes no Repositório.">
+      <change afterPath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula5/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula5/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula5/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula5/Exercicio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/Aula1_Exercicio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/out/production/Logica-Programacao2023/Aula1_Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/out/production/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/out/production/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Logica-Programacao2023/out/production/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logica-Programacao2023/src/ExerciciosLogicaFATEC/Aula4/Exercicio5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,9 +123,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio2" />
         <item itemvalue="Application.exercicio10" />
         <item itemvalue="Application.exercicio1Soma" />
-        <item itemvalue="Application.exercicio2" />
         <item itemvalue="Application.exercício1" />
         <item itemvalue="Application.Exercicio11" />
       </list>

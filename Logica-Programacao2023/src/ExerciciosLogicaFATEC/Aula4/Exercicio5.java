@@ -19,8 +19,8 @@ public class Exercicio5 {
             System.out.println("Agora, digite o último horário:");
             horaFinal = input.nextInt();
         }
-        //Estrutura para o usuário trocar os valores entre as horas final e inicial, caso a primeira seja menor que a segunda.
-        while(horaFinal < horaInicial) {
+        //Estrutura para o usuário trocar os valores entre as horas final e inicial, caso a primeira seja maior que a segunda.
+        while (horaFinal < horaInicial) {
             System.out.println("Digite a hora inicial, um valor menor que a hora final: ");
             horaInicial = input.nextInt();
             System.out.println("Digite a hora final, um valor maior que o inserido acima: ");
